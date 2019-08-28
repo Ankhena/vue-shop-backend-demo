@@ -20,7 +20,7 @@ if (!$data) {
 
 $order = json_decode($data);
 
-$to = "uragorin@yandex.ru";
+$to = "summer-bird@yandex.ru";
 
 $name = strip_tags($order["name"]);
 $phone = strip_tags($order["phone"]);
